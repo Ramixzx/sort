@@ -1,0 +1,22 @@
+{
+  "name": "sort",
+  "version": "1.0.0",
+  "description": "In this project we will work in depth with the sort method.",
+  "main": "src/index.js",
+  "scripts": {
+    "exercise1": "node src/exercise1/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ramixzx/sort.git"
+  },
+  "keywords": [
+    "sort"
+  ],
+  "author": "Ramiro Elias Mijalovich (Ramixzx)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ramixzx/sort/issues"
+  },
+  "homepage": "https://github.com/Ramixzx/sort#readme"
+}
