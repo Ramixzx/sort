@@ -4,7 +4,8 @@
   "description": "In this project we will work in depth with the sort method.",
   "main": "src/index.js",
   "scripts": {
-    "exercise1": "node src/exercise1/index.js"
+    "exercise1": "node src/exercise1/index.js",
+    "exercise2": "node src/exercise2/index.js"
   },
   "repository": {
     "type": "git",
